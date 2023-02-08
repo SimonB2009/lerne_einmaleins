@@ -1,5 +1,5 @@
 ![Name-Logo](name-logo.png)
 
 # Anleitung
-Mit diesem Projeckt kannst du das Kleineeinmaleins lernen in deiner Konsole.
-Beenden kannst du das Programm mit **Str + c** (Windows).
+With this project you can learn the basics of the little multiplication table in your console.
+You can exit the program with **Str + c** (Windows).
